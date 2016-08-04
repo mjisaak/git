@@ -24,7 +24,9 @@ Output:
 
 ## List remote repository url
     git remote show origin
+```
 Output:
+```
 ```
 * remote origin
 Fetch URL: https://github.com/mjisaak/git.git
