@@ -25,13 +25,15 @@ Output:
 ## List remote repository url
     git remote show origin
 Output:
-    * remote origin
-    Fetch URL: https://github.com/mjisaak/git.git
-    Push  URL: https://github.com/mjisaak/git.git
-    HEAD branch: master
-    Remote branch:
-        master tracked
-    Local branch configured for 'git pull':
-        master merges with remote master
-    Local ref configured for 'git push':
-        master pushes to master (up to date)
+```
+* remote origin
+Fetch URL: https://github.com/mjisaak/git.git
+Push  URL: https://github.com/mjisaak/git.git
+HEAD branch: master
+Remote branch:
+    master tracked
+Local branch configured for 'git pull':
+    master merges with remote master
+Local ref configured for 'git push':
+    master pushes to master (up to date)
+```
