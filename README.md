@@ -1,4 +1,4 @@
-# git
+# Working with git using the command line
 
 ## Clone a Github repository:
     git clone https://github.com/mjisaak/git.git
