@@ -26,7 +26,7 @@ origin
 ## List remote repository url
     git remote show origin
 
-Output:
+*Output:*
 
 ```
 * remote origin
